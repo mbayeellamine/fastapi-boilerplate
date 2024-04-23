@@ -81,9 +81,9 @@ Feel free to contribute to this project by opening issues or pull requests.
 
 1. 仮想環境を作成する：
 
-bash
+```
 python3 -m venv fastapi-env
-ソース fastapi-env/bin/activate
+source fastapi-env/bin/activate
 ```
 
 Step1 : スクリプトに適切なパーミッションを与える。
